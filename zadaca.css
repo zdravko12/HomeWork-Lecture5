@@ -1,0 +1,102 @@
+.nole{
+    color: rgb(0, 211, 112);
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 5px 5px 15px rgba(255, 255, 0, 0.418);
+    /* text-transform: Uppercase; */
+    
+    
+}
+h3 {
+    color: rgb(9, 224, 224);
+    text-decoration: underline;
+    font-family: serif;
+    font-size: 20px;
+    
+
+    
+    
+    
+    
+}
+p {
+
+    
+    font-family: sans-serif;
+    color: rgb(212, 151, 97);
+    font-size: 18px;
+    /* text-align-last: end; */
+    
+}
+body{
+    background-color: black;
+    background-image: url("http://www.clker.com/cliparts/K/C/r/p/W/o/grey-oak-tree-hi.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size:700px 640px ;
+    background-position: bottom left;
+    background-position: 10% 30%;
+    
+    
+    
+   
+
+
+}
+
+
+#nolereket::first-letter{
+    color: rgb(30, 255, 0);
+    text-shadow: 5px 3px 10px rgba(255, 150, 12, 0.384);
+    font-size: 40px;
+    letter-spacing: 4px;
+    
+    
+     
+
+}
+#nolep:hover{
+    color: rgb(0, 255, 115);
+    text-decoration: underline;
+    font-size: 55px;
+    text-shadow: 5px 5px 20px rgba(0, 68, 255, 0.781);
+}
+#djokovic:hover {
+    color: rgba(255, 145, 0, 0.76);
+    font-size: 25px;
+    text-shadow: 5px 5px 20px rgba(0, 68, 255, 0.781);
+    
+}
+footer{
+    
+    text-shadow: 5px 5px 20px rgb(175, 70, 0);
+    text-align: center;
+    text-transform: Uppercase;
+}
+a:hover{
+    color: rgba(0, 247, 247, 0.808);
+    font-size: 25px;
+    text-shadow: 5px 5px 20px rgb(0, 175, 9);
+    text-transform: Uppercase;
+    
+     
+     
+}
+img {
+
+    position: relative;
+    float: right;
+    width: 200px;
+    border: solid rgba(6, 219, 34, 0.658);
+    box-shadow: 5px 3px 20px;
+    
+    
+}
+img:hover{
+    color: brown;
+    border: solid rgb(255, 94, 0);
+    box-shadow: 5px 3px 80px;
+    width: 201px;
+    
+}
